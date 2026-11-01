@@ -66,11 +66,11 @@ the raw files for that date.
 ## Latest scoreboard
 
 <!-- scoreboard:start -->
-Audit of 2026-10-26 ([comparison](reports/2026-10-26/comparison.md))
+Audit of 2026-11-02 ([comparison](reports/2026-11-02/comparison.md))
 
 | Site | Heuristics judged | Total severity (lower is better) | Highest single severity | Report |
 |---|---|---|---|---|
-| NUS | 0 of 10 | not judged | not judged | [nus.md](reports/2026-10-26/nus.md) |
-| NTU | 8 of 10 | 8 | 2 (Consistency and standards) | [ntu.md](reports/2026-10-26/ntu.md) |
-| SMU | 0 of 10 | not judged | not judged | [smu.md](reports/2026-10-26/smu.md) |
+| NUS | 8 of 10 | 10 | 3 (Consistency and standards) | [nus.md](reports/2026-11-02/nus.md) |
+| NTU | 8 of 10 | 8 | 2 (Consistency and standards) | [ntu.md](reports/2026-11-02/ntu.md) |
+| SMU | 0 of 10 | not judged | not judged | [smu.md](reports/2026-11-02/smu.md) |
 <!-- scoreboard:end -->
